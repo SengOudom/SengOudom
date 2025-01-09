@@ -1,4 +1,3 @@
-# Hi there, I'm SengOudom! 👋
 ## About Me
 - 💻 Programming with a passion for learning and building scalable applications.
 - 🌱 Currently learning beginner concepts in programming.
