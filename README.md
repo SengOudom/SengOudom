@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**SengOudom/SengOudom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm SengOudom! 👋
+## About Me
+- 💻 Programming with a passion for learning and building scalable applications.
+- 🌱 Currently learning beginner concepts in programming.
+- 🔭 Always eager to explore new technologies and improve my skills.
+## Skills
+- **Programming Languages:** JavaScript, PHP
+- **Frameworks and Libraries:** Next, React, Laravel
+- **Databases:** SQL
+- **Tools:** Git
+## GitHub Stats
+![SengOudom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SengOudom&show_icons=true&count_private=true&theme=radical)
+## Fun Facts
+- 🎮 Love playing video games and exploring new technology.
+- 📚 Avid reader of tech blogs and science fiction novels.
